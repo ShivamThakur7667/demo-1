@@ -5,6 +5,5 @@ Name - Shivam Thakur
 <br>
 Roll no - 21-cse-4675
 <br>
-College - Brcm College of Engineering & Technology 
-          Bahal Haryana
+College - Brcm College of Engineering & Technology Bahal, Haryana
 
