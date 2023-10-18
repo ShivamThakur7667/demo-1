@@ -1,5 +1,5 @@
 # demo-1
-<h2>This is my first Git Repository<h2></h2>
+<h3>This is my first Git Repository</h3>
 <br>
 Name - Shivam Thakur
 <br>
